@@ -4,18 +4,18 @@ var img$1 = "data:image/svg+xml,%3c%3fxml version='1.0' encoding='UTF-8' standal
 
 var en$1 = {
 	"ambient.entry.name": "Ambient",
-	"ambient.entry.description": "Description of this extension"
+	"ambient.entry.description": "Ambient"
 };
 var ja$1 = {
 	"ambient.entry.name": "Ambient",
-	"ambient.entry.description": "拡張機能の説明"
+	"ambient.entry.description": "Ambient"
 };
 var translations$1 = {
 	en: en$1,
 	ja: ja$1,
 	"ja-Hira": {
 	"ambient.entry.name": "Ambient",
-	"ambient.entry.description": "かくちょうきのうのせつめい"
+	"ambient.entry.description": "Ambient"
 }
 };
 
