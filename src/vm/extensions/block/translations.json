@@ -1,14 +1,14 @@
 {
   "en": {
-    "myBlocks.name": "My Blocks",
+    "myBlocks.name": "610t's block 1",
     "myBlocks.playTone": "play [TYPE] wave [FREQ] Hz [DUR] s"
   },
   "ja": {
-    "myBlocks.name": "My Blocks",
+    "myBlocks.name": "610t's block 2",
     "myBlocks.playTone": "[FREQ] Hzの [TYPE] 波を [DUR] 秒間鳴らす"
   },
   "ja-Hira": {
-    "myBlocks.name": "My Blocks",
+    "myBlocks.name": "610t's block 3",
     "myBlocks.playTone": "[FREQ] ヘルツの [TYPE] はを [DUR] びょうかんならす"
   }
 }
