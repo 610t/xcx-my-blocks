@@ -18,13 +18,13 @@ const entry = {
     get name () {
         return formatMessage({
             id: 'myBlocks.entry.name',
-            default: 'My Blocks',
-            description: 'name of the extension'
+            default: 'M5Stack',
+            description: 'M5Stack extension'
         });
     },
     extensionId: 'myBlocks',
-    extensionURL: 'https://yokobond.github.io/xcx-my-blocks/dist/myBlocks.mjs',
-    collaborator: 'yokobond',
+    extensionURL: 'https://610t.github.io/xcx-my-blocks/dist/myBlocks.mjs',
+    collaborator: '610t',
     iconURL: iconURL,
     insetIconURL: insetIconURL,
     get description () {
